@@ -21,7 +21,7 @@ import requests
 # st.write('Hello, welcome to your first dashboard!')
 #
 
-!streamlit run app.py & npx localtunnel --port 8501
+
 
 import streamlit as st
 from datetime import datetime
