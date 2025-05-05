@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1pMuCFmS04MZvuUtY24ja_u3dUKVOYfsK
 """
 
-!pip install streamlit yfinance plotly
+
 
 import requests
 
