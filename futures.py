@@ -121,7 +121,7 @@ else:
 st.markdown("---")
 st.caption("Futures Intelligence Dashboard | Built for Learning and Market Awareness | © 2025")
 
-!pip install yfinance
+
 
 import streamlit as st
 import yfinance as yf
